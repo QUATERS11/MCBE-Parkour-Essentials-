@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "",
+        "name": "§l§1Parkour Essentials §3By §2THErealDIVIJ",
+        "uuid": "4f7b50e1-afe3-4572-9983-bd01a68ad2ad",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 18, 0]
+    },
+    "modules": [
+        {
+            "description": "Example behavior pack module",
+            "type": "data",
+            "uuid": "13dceb7e-0822-4a5d-a726-586a9e508100",
+            "version": [1, 0, 0]
+        }
+    ]
+}
